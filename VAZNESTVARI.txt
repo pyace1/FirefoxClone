@@ -1,0 +1,9 @@
+1. objasnjavanje FLEXBOXA i manipulisanje headerom
+	header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+		
+2. objasnjavanje flexboxa u vise primera sa vise artikala
